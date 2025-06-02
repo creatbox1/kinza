@@ -1,4 +1,3 @@
-
 const connectButton = document.getElementById("connectButton");
 const claimButton = document.getElementById("claimButton");
 const status = document.getElementById("status");
